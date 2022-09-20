@@ -1,0 +1,640 @@
+@media screen and (max-width: 1280px) {
+	header {
+		//background-color: pink;
+	}
+	#profile_img img {
+		width: 65%;
+	}
+	#about_profile img {
+		height: 300px;
+		margin: 15% auto;
+	}
+}
+@media screen and (max-width: 1024px){
+	header {
+		//background-color: green;
+	}
+	#logo_draw {
+		margin-top: 4.1%;
+	}
+	.augustine {
+		font-size: 40px;
+	}
+	.wave {
+		font-size: 40px;
+	}
+	#profile_img {
+		//background-color: brown;
+	}
+	#profile_img img {
+		width: 80%;
+	}
+	.project1 {
+		//height: 300px;
+	}
+	.project1 img {
+		height: 190px;
+	}
+	.project1_stack1 {
+		margin-left: 13% !important;
+	}
+	#about_container {
+		//height: 400px;
+	}
+	#about_profile img {
+		height: 260px;
+		margin: 25% auto;
+	}
+	#skill_holder {
+		height: 120px;
+	}
+	#skill_holder img {
+		height: 60%;
+	}
+	.skill_txt {
+		font-size: 14px;
+	}
+	#contact_form {
+		float: none;
+		width: 50%;
+	}
+	#social_media_container {
+		float: none;
+		height: 100px;
+		margin-left: 7%;
+		width: 50%;
+		margin-top: 15%;
+	}
+	.social_header {
+		top: 0;
+		width: 60%;
+		left: 20%;
+	}
+	#social_media_holder1 {
+		height: 50px;
+		margin-top: 9%;
+	}
+	#social_media_holder {
+		height: 50px;
+		margin-top: 9%;
+	}
+	#social_media_holder1 img {
+		height: 50px;
+	}
+	#social_media_holder img {
+		height: 50px;
+	}
+}
+@media screen and (max-width: 912px){
+	header {
+		//background-color: blue;
+	}
+	#logo_draw {
+		margin-top: 4.6%;
+	}
+	#profile_img img {
+		width: 85%;
+		height: 380px;
+	}
+	.project1 {
+		//height: 280px;
+	}
+	.project1 img {
+		height: 160px;
+	}
+	.project1_stack1 {
+		margin-left: 10% !important;
+	}
+	#about_container {
+		//height: 400px;
+	}
+	#about_profile img {
+		height: 240px;
+		margin: 25% auto;
+	}
+	#about_text p {
+		font-size: 14px;
+	}
+	#skill_holder {
+		height: 100px;
+	}
+	#skill_holder img {
+		height: 75px;
+	}
+	.skill_txt {
+		font-size: 14px;
+	}
+	#skill {
+		margin-bottom: 0px;
+	}
+	#contact_form {
+		width: 65%;
+		margin-left: 3%;
+	}
+
+
+}
+@media screen and (max-width: 820px){
+	header {
+		//background-color: brown;
+	}
+	nav {
+		display: none;
+	}
+	#hamburger {
+		left: 90%;
+		display: block;
+	}
+	#nav_mobile li:nth-child(1){
+		margin-top: 30%;
+	}
+	.augustine {
+		font-size: 30px;
+		margin-left: 10%;
+	}
+	.wave {
+		font-size: 30px;
+	}
+	#profile_img {
+		//background-color: brown;
+	}
+	#profile_img img {
+		width: 95%;
+	}
+	#logo_draw {
+		margin-top: 6%;
+	}
+	#contact_me {
+		margin-left: 10%;
+	}
+	.typing {
+		font-size: 17px;
+	}
+	#typing_wrapper {
+		margin-left: 10%;
+	}
+	.project1 {
+		width: 55%;
+		margin-top: 7%;
+	}
+	#about_container {
+		//height: auto;
+		width: 90%;
+	}
+	#about_profile img {
+		height: 210px;
+	}
+	#social_media_container {
+		width: 60%;
+	}
+	#thank_u {
+		margin-left: 5%;
+	}
+	#name_header {
+		line-height: 70px;
+	}
+
+}
+@media screen and (max-width: 768px){
+	#logo_draw {
+		margin-top: 6.5%;
+	}
+	#profile_img {
+		//background-color: brown;
+	}
+	#profile_img img {
+		width: 100%;
+	}
+	#skill_holder {
+		width: 17%;
+	}
+
+}
+@media screen and (max-width: 720px){
+
+}
+@media screen and (max-width: 540px){
+	#profile_name {
+		width: 100%;
+		height: 200px;
+		//float: none;
+	}
+	.augustine {
+		margin-top: 8%;
+	}
+	#profile_img {
+		width: 100%;
+		//float: none;
+		//background-color: brown;
+	}
+	#profile_img img {
+		width: 65%;
+		height: 340px;
+	}
+	#logo_draw {
+		margin-top: 9.5%;
+	}
+	#about_profile {
+		display: none;
+	}
+	#download_cv {
+		background-color: black;
+		border: 1px solid #f0b90b;
+		padding: 7px;
+	}
+	.project1 {
+		width: 90%;
+		margin-left: 5%;
+	}
+	#about_text {
+		width: 95%;
+	}
+	.project_header {
+		text-align: center;
+	}
+	#about_text p {
+		width: 90%;
+		//height: 100px;
+		//background-color: red;
+		margin-left: 5%;
+	}
+	.project1 span {
+		font-size: 10px;
+	}
+	.about_header {
+		margin-left: 0;
+		text-align: center;
+		//background-color: red;
+		width: 100%;
+		overflow: hidden;
+	}
+	#skill {
+		width: 90%;
+		margin-left: 5%;
+		//background-color: green;
+		height: 250px;
+	}
+	#skill_holder {
+		height: 80px;
+		margin-left: 2.5%;
+	}
+	#skill_holder img {
+		height: 55px;
+		width: 70%;
+	} 
+	.skill_txt {
+		font-size: 12px;
+	}
+	#contact_form {
+		width: 90%;
+	}
+	#social_media_container {
+		width: 90%;
+		margin-left: 5%;
+	}
+	.contact_header {
+		text-align: center;
+	}
+	footer{
+		//margin-top: 10%;
+		overflow: hidden;
+	}
+	
+}
+@media screen and (max-width: 414px){
+	#logo {
+		width: 60%;
+	}
+	#hamburger {
+		left: 85%;
+	}
+	#success{
+		width: 95%;
+		font-size: 15px;
+	}
+	#logo_draw {
+		margin-top: 10%;
+	}
+	.augustine {
+		font-size: 25px;
+	}
+	#contact_me {
+		font-size: 15px;
+	}
+	#download_cv {
+		font-size: 15px;
+	}
+	#profile_img {
+		height: 360px;
+	}
+	#profile_img img {
+		height: 280px;
+		width: 68%;
+	}
+	.project1 {
+		//height: 250px;
+	}
+	#about_container {
+		margin-left: 5%;
+		padding-bottom: 5%;
+	}
+	#skill_holder {
+		width: 22%;
+		margin-top: 5%;
+	}
+	#skill {
+		margin-bottom: 30%;
+	}
+	#contact_form {
+		width: 90%;
+	}
+	.social_header {
+		width: 75%;
+		font-size: 16px;
+		left: 13%;
+	}
+	#social_media_holder1 {
+		height: 38px;
+		margin-top: 12%;
+	}
+	#social_media_holder {
+		height: 38px;
+		margin-top: 12%;
+	} 
+	#social_media_holder1 img {
+		height: 40px;
+	}
+	#social_media_holder img {
+		height: 40px;
+	}
+	#social_media_container {
+		height: 90px;
+	}
+	#thank_u {
+		width: 80%;
+		font-size: 20px;
+		margin-left: 0;
+	}
+}
+@media screen and (max-width: 412px){
+	#logo {
+		width: 65%;
+	}
+	#profile_img img {
+		width: 75%;
+	}
+	.project1 {
+		width: 95%;
+		margin-left: 2.5%;
+	}
+	#project_container {
+		margin-top: 10%;
+	}
+	.project_header {
+		font-size: 20px;
+	}
+	.project1 h1 {
+		font-size: 15px;
+	}
+	#contact_form {
+		width: 95%;
+	}
+	#social_media_holder1 {
+		height: 35px;
+		margin-top: 11%;
+	}
+	#social_media_holder {
+		height: 35px;
+		margin-top: 11%;
+	} 
+	#social_media_holder1 img {
+		height: 38px;
+	}
+	#social_media_holder img {
+		height: 38px;
+	}
+	#social_media_container {
+		height: 80px;
+	}
+}
+@media screen and (max-width: 375px){
+
+	#logo {
+		width: 70%;
+	}
+	#profile_img img {
+		width: 75%;
+	}
+	.project1 {
+		width: 95%;
+		margin-left: 2%;
+	}
+	#project_container {
+		margin-top: 10%;
+	}
+	.project_header {
+		font-size: 20px;
+	}
+	.project1 h1 {
+		font-size: 15px;
+	}
+	#contact_form {
+		width: 95%;
+	}
+	#skill_holder {
+		width: 30%;
+	}
+	#skill_holder img {
+		width: 60%;
+	}
+	#skill {
+		margin-bottom: 60%;
+	}
+	#social_media_holder1 {
+		height: 38px;
+		margin-top: 11%;
+		width: 12%;
+	}
+	#social_media_holder {
+		height: 38px;
+		margin-top: 11%;
+		width: 12%;
+	} 
+	#social_media_holder1 img {
+		height: 40px;
+	}
+	#social_media_holder img {
+		height: 40px;
+	}
+	#social_media_container {
+		height: 80px;
+	}
+	#send_msg button {
+		width: 50%;
+	}
+
+}
+@media screen and (max-width: 360px){
+	#profile_img img {
+		width: 70%;
+		height: 250px;
+	}
+	#profile_img {
+		height: 320px;
+	}
+	.project1_stack1 {
+		margin-left: 5% !important;
+	}
+	.project1 img {
+		height: 140px;
+	}
+	.project1 {
+		//height: 230px;
+	}
+	.social_header{
+		font-size: 14px;
+		line-height: 25px;
+	}
+	#about_text p {
+		font-size: 12px;
+	}
+	#about_container {
+		//padding-bottom: 0px;
+	}
+	#social_media_holder1 {
+		margin-left: 25%;
+	}
+}
+@media screen and (max-width: 320px){
+
+}
+@media screen and (max-width: 280px){
+	#logo {
+		width: 90%;
+		display: none;
+	}
+	#hamburger {
+		left: 80%;
+		width: 40px;
+		top: 25%;
+	}
+	#logo_draw {
+		margin-top: 10%;
+	}
+	.augustine {
+		font-size: 22px;
+	}
+	.wave {
+		font-size: 22px;
+	}
+	#contact_me {
+		font-size: 15px;
+		width: 48%;
+		margin-top: 5%;
+	}
+	#download_cv {
+		font-size: 15px;
+		margin-left: 10%;
+		margin-top: 2%;
+	}
+	.typing {
+		font-size: 15px;
+	}
+	#profile_img {
+		height: 260px;
+		//display: none;
+	}
+	#profile_img img {
+		height: 180px;
+		width: 68%;
+	}
+	.project1 {
+		//height: 190px;
+	}
+	.project1 span {
+		font-size: 6.5px;
+	}
+	.project1 img {
+		height: 100px;
+	}
+	.project1 h1 {
+		font-size: 13px;
+	}
+	.about_header {
+		font-size: 18px;
+	}
+	#about_container {
+		margin-left: 5%;
+		padding-bottom: 5%;
+	}
+	#about_text p {
+		font-size: 10px;
+	}
+	#skill_holder {
+		width: 30%;
+		margin-top: 5%;
+		height: 60px;
+	}
+	.skill_txt {
+		font-size: 10px;
+	}
+	#skill {
+		margin-bottom: 30%;
+	}
+	#skill_holder img{
+		height: 40px;
+	}
+	.contact_header{
+		font-size: 18px;
+	}
+	#contact_form {
+		width: 95%;
+	}
+	#send_msg label {
+		font-size: 12px;
+	}
+	#send_msg button {
+		width: 60%;
+		font-size: 12px;
+	}
+	#send_msg textarea {
+		height: 180px;
+	}
+	.social_header {
+		width: 70%;
+		font-size: 10px;
+		left: 15%;
+		height: 20px;
+	}
+	#social_media_holder1 {
+		height: 30px;
+		margin-top: 12%;
+		margin-left: 22%;
+	}
+	#social_media_holder {
+		height: 30px;
+		margin-top: 12%;
+	} 
+	#social_media_holder1 img {
+		height: 30px;
+	}
+	#social_media_holder img {
+		height: 30px;
+	}
+	#social_media_container {
+		height: 70px;
+	}
+	#thank_u {
+		width: 80%;
+		font-size: 16px;
+		margin-left: 4%;
+	}
+	#success{
+		width: 95%;
+		font-size: 12px;
+		padding-left: 2%;
+	} 
+}
+@media screen and (max-width: 240px){
+
+}
